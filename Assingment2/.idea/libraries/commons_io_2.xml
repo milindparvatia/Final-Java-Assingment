@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-io-2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/OneDrive - RMIT University/sem2/advance programming/commons-io-2.6" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/OneDrive - RMIT University/sem2/advance programming/commons-io-2.6/docs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/OneDrive - RMIT University/sem2/advance programming/commons-io-2.6" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/OneDrive - RMIT University/sem2/advance programming/commons-io-2.6" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/OneDrive - RMIT University/sem2/advance programming/commons-io-2.6" recursive="false" type="SOURCES" />
+  </library>
+</component>
